@@ -17,6 +17,8 @@ Start the VM after the VHDs are merged and the disk path is updated. Defaults to
 Set to $true for unattended merges.
 
 .NOTES
+Make sure you have proper backups before starting the merge operation.
+
 Ulisses Righi
 ulisses@ulisoft.com.br
 #>
